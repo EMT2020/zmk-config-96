@@ -28,7 +28,7 @@
 		zephyr,flash = &flash0;
 		zmk,kscan = &kscan0;
         zmk,underglow = &led_strip;
-		zmk,battery = &fuelgauge;
+
 		zmk,studio-rpc-uart = &cdc_acm_uart;
 	};
 
